@@ -1,0 +1,17 @@
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 5px solid #000;
+}
+
+.carousel {
+    background: rgba(0, 0, 0, .1);
+    margin: 0 auto;
+    border-radius: 3px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    background: rgba(0, 0, 0, .3);
+    width: 11.5%;
+}
